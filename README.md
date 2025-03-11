@@ -41,17 +41,17 @@ L'application sera construite avec **Microsoft Azure** comme infrastructure clou
 - Anticipation des **questions du comité exécutif**.
 
 ## 📦 Livrables attendus
-✅ Backlog des user stories.
-✅ Estimation des charges et coûts.
-✅ Analyse des enjeux légaux et éthiques.
-✅ Registre des traitements des données personnelles.
-✅ Analyse des risques et plan d’atténuation.
-✅ Présentation finale pour le COMEX.
+- ✅ Backlog des user stories.
+- ✅ Estimation des charges et coûts.
+- ✅ Analyse des enjeux légaux et éthiques.
+- ✅ Registre des traitements des données personnelles.
+- ✅ Analyse des risques et plan d’atténuation.
+- ✅ Présentation finale pour le COMEX.
 
 ## 🚀 Objectif final
 Convaincre le **COMEX** de financer et approuver le projet en démontrant sa **viabilité et sa rentabilité** à court ou moyen terme.
 
 ---
-📅 **Délai** : 3 semaines avant la réunion du COMEX.
-👥 **Méthodologie** : Agile SCRUM.
-🌐 **Technologie** : Microsoft Azure.
+- 📅 **Délai** : 3 semaines avant la réunion du COMEX.
+- 👥 **Méthodologie** : Agile SCRUM.
+- 🌐 **Technologie** : Microsoft Azure.
